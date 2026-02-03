@@ -48,6 +48,7 @@ console.log(str3);
 // console.log(1 + "2" + 3);
 
 // console.log((3 + 4) * 5 % 3);
+//***********comparsion***************//
 
 console.log(true);
 
@@ -56,3 +57,17 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
 
+
+
+
+// confusion hota hai 
+
+
+console.log(null > 0);
+console.log(null == 0);
+console.log(null >= 0);
+
+
+console.log(undefined == 0);
+console.log(undefined < 0);
+console.log(undefined > 0); 
